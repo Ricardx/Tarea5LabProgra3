@@ -1,0 +1,10 @@
+Ejecutar el server
+
+$ cd ~/tmwAthena/tmwa-server-data/
+
+$ ./run-all
+
+
+Ejecutar el cliente (En otra terminal)
+
+$ manaplus --server localhost --port 6901 -u -d ~/tmwAthena/tmwa-server-data/client-data
